@@ -4,7 +4,7 @@
     <default-locale>en_US</default-locale>
     <name resource-id="name"/>
     <description>Just came by to say hello!</description>
-    <author name="come.bianchi" email="come.bianchi@schibsted.com" organization="Schibsted" website="https://schibsted.com"/>
+    <author name="Côme Grant" email="come.grant@gmail.com" organization="Sofa" website="https://donthaveoneyet.com"/>
     <min-api-version>1.0</min-api-version>
     <source-location>
         <url>http://localhost:8765/hello_world/HelloWorld.html</url>
